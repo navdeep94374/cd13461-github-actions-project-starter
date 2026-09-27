@@ -202,6 +202,7 @@ spruecss-eleventy-documentation-template/
     repository
     ```
 
+
 1. To build the site so that it's compatible with GitHub Pages, you can use the following commands:
 
     ```bash
